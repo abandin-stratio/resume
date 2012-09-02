@@ -1,0 +1,71 @@
+
+Experiencia:
+
+Programador Jr  06/2010-Actualmente 
+  Maqueatción plantillas de Ps a XHTML-CSS para Joomla 1.5
+  Desarrollo de componentes para Joomla 1.5
+  Desarrollo de módulos para Joomla 1.5
+
+Educación:
+  7/2010 Ingeniero Técnico Técnico de Telecomunicación, especialidad en Sonido e Imagen  EU Politecnica de Cuenca
+
+Idiomas:
+  Español:Lengua materna
+  Inglés:Compresión-Medio Oral-Elemental  Escrito-Medio
+
+Capacidades y competencias sociales
+  Capacidad para el trabajo en equipo.
+  Capacidad de comunicación
+  Escucha activa
+
+Capacidades y competencias organizativas:
+  Dotes organizativas y de planificación 
+  Capacidad de adaptación y trabajo.
+  Espíritu de superación y desarrollo profesional
+
+Capacidades y competencias informáticas:
+
+  Lenguajes de programación/tecnologías:
+    PHP con POO (2 años de experiencia)
+    JavaScript (2 años de experiencia)
+    AJAX
+    node.js
+  
+  Frameworks:
+    Joomla
+    Codeigniter
+    jQuery
+    Express
+  
+  Bases de datos
+    MySQL(2 años de experiencia)
+
+  Control de versiones
+    svn
+    git
+
+  IDE
+    netbeans
+    eclipse
+    zend studio
+
+  Standards:
+    HTML 4.01, XHTML 1.0/1.1,HTML5
+    CSS1, CSS2,CSS3
+    DOM
+  
+  Sistemas operativos/plataformas:
+    Windows 95/98/2000/XP/2003/Vista/2008/Windows 7
+    Linux
+  
+  Otros capacidades y competencias informáticas
+    Dominio los componentes de Microsoft Office™ (Word™, Excel™ y PowerPoint™);
+    Conocimiento básico de aplicaciones de diseño gráfico (Adobe Illustrator™, PhotoShop™).
+
+Otras capacidades y competencias
+  Disposición  para viajar. 
+  Disponibilidad para la incorporación inmediata.
+  Aptitud explícita para un posible cambio de residencia.
+
+Permiso(s) de conducción
+  Licencia de conducción B1 (Turismos y vehículos de hasta 3500Kg.)
