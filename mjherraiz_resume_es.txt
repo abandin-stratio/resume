@@ -1,10 +1,14 @@
 
 Experiencia:
 
-Programador Jr  06/2010-Actualmente 
-  Maqueatción plantillas de Ps a XHTML-CSS para Joomla 1.5
-  Desarrollo de componentes para Joomla 1.5
-  Desarrollo de módulos para Joomla 1.5
+Programador Jr  
+  06/2010-Actualmente 
+  amaranto Consultores www.amarantoconsultores.com
+  Responsabilidades:
+    Maqueatción plantillas de Ps a XHTML-CSS para Joomla 1.5
+    Desarrollo de componentes para Joomla 1.5
+    Desarrollo de módulos para Joomla 1.5
+
 
 Educación:
   7/2010 Ingeniero Técnico Técnico de Telecomunicación, especialidad en Sonido e Imagen  EU Politecnica de Cuenca
