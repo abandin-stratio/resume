@@ -1,11 +1,22 @@
-
 github: http://github.com/mjherraiz
 twitter @mjherraiz
 
 Experiencia:
+Programador  
+  02/2013-Actualmente 
+  www.softime.es
+  Responsabilidades:
+    Desarrollo en Php del Front de diferentes proyectos
 
 Programador Jr  
-  06/2010-Actualmente 
+  09/2012-02/2013 
+  www.destinia.com
+  Responsabilidades:
+    Desarrollo de herramientas de administración en Php+Mysql 
+
+
+Programador Jr  
+  06/2010-09/2012 
   amaranto Consultores www.amarantoconsultores.com
   Responsabilidades:
     Maqueatción plantillas de Ps a XHTML-CSS para Joomla 1.5
